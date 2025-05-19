@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to mi github page!
 
 <!--
 **irenemaring/irenemaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to mi github page!
-🔭 This is what I’m currently working on ...
-📫 You are welcome to reach me at: 023irenemarin@gmail.com
+
+### 🔭 This is what I’m currently working on ...
+1. NetActivity_paper
+2. MyWebSite
+
+📫 You are welcome to [reach out](mailto:023irenemarinh@gmail.com) at  `023irenemarin [at] gmail [dot] com`
+
+[LinkedIn](https://linkedin.com/in/irenemaringoni)
