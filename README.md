@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 This is what I’m currently working on ...
-1. NetActivity_paper
-2. MyWebSite
+
 
 📫 You are welcome to [reach out](mailto:023irenemarinh@gmail.com) at  `023irenemarin [at] gmail [dot] com`
 
